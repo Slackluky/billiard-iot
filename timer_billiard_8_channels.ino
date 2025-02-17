@@ -6,8 +6,8 @@
 #include <ESP32Time.h>
 
 // Wi-Fi credentials
-const char* ssid = "DZS_GONT2G_83F0";
-const char* password = "1234567890a";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // Static IP configuration
 IPAddress local_IP(192, 168, 1, 19);
