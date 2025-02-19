@@ -1,6 +1,10 @@
+
+
 **Pertama Install ARDUINO IDE**
 
 https://www.arduino.cc/en/software
+**Install CP210x**
+https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip
 
 **Tutorial flash dan general info ESP32 8 CH relay**
 
