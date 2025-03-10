@@ -24,3 +24,16 @@ https://drive.google.com/file/d/1NIE4KYUGKdWFoml3p8Abyh2nCghxGzEB/view?usp=drive
 
 **USB UART TTL**
 https://drive.google.com/file/d/1zMr_euTKM4f1L7AgPr42nkCM1jAknNvE/view?usp=drive_link
+
+**Custom Relay ESP32 Dev Board**
+
+| Relay | ESP32 PIN |
+|-------|-----------|
+| 1     | D26       |
+| 2     | D25       |
+| 3     | D18       |
+| 4     | D19       |
+| 5     | D21       |
+| 6     | D22       |
+| 7     | D23       |
+| 8     | D27       |
